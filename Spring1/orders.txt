@@ -1,0 +1,5 @@
+User1; Street 1; IPad; 799.99
+User2; Street 2; IPhone; 899.99
+User3; Street 3; Samsung S5; 999.99
+
+
